@@ -77,5 +77,23 @@ I'm a **Data Scientist**, open-source contributor, technical writer, researcher,
 </table>
 
 ---
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Java](https://img.shields.io/badge/Java-11-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Blue)
+![NLP](https://img.shields.io/badge/NLP-Green)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Purple)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-Brown)
+
+---
+
+### Quote:
+> "The best way to predict the future is to invent it." – Alan Kay
+
+---
+
+### Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=Stonebanks-js&label=Profile%20views&color=0e75b6&style=flat)
 
 [Stonebanks-js](https://github.com/Stonebanks-js)
