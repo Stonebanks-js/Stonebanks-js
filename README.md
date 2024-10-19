@@ -6,15 +6,14 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsYjJ0a3hyZTN1Y2hqeDFzNTIyanV5M3ppbzR2dHlwNGlhcHVudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cool Tech GIF" width="600"/>
 </div>
 
-
 ---
 
-### GREETINGS AMIGOS !!, 
+### GREETINGS AMIGOS !!
 
 I'm a **Data Scientist**, open-source contributor, technical writer, researcher, and blogger. My passion lies in leveraging technology to solve real-world problems and contribute to the open-source ecosystem. Let's make technology smarter! 🚀
 
 - 🔭 **Current Project**: I'm working on a **Chicken Disease Classifier** using **semi-supervised learning**, **reinforcement learning**, **deep learning**, and **CI/CD techniques**. The goal is to enhance the detection of diseases in chickens using a hybrid of machine learning models and automation pipelines.
-  
+
 - 🌱 **Currently Involved In**:
   - Google Summer of Code (GSOC)
   - Hacktoberfest
@@ -40,7 +39,6 @@ I'm a **Data Scientist**, open-source contributor, technical writer, researcher,
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stonebanks-js&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=tokyonight" alt="Stonebanks-js's commits and pull requests"/>
   </a>
 </div>
-
 
 ---
 
@@ -75,8 +73,23 @@ I'm a **Data Scientist**, open-source contributor, technical writer, researcher,
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,jetbrains"/></td>
     </tr>
 </table>
+---
+
+### Achievements 🎉
+
+#### Hacktoberfest Badges:
+<div>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Level 0 Badge" width="150"/>
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tea-0-0-0.webp" alt="Level 1 Badge" width="150"/>
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-robe-0-0.webp" alt="Level 2 Badge" width="150"/>
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-robe-0-0.webp" alt="Level 3 Badge" width="150"/>
+  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-robe-0-0.webp" alt="Level 4 Badge" width="150"/>
+</div>
 
 ---
+
+---
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Java](https://img.shields.io/badge/Java-11-red)
@@ -95,5 +108,13 @@ I'm a **Data Scientist**, open-source contributor, technical writer, researcher,
 
 ### Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=Stonebanks-js&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+### Achievements 🏆
+
+![Hacktoberfest 2024 Badge](https://hacktoberfest.digitalocean.com/assets/badge-hacktoberfest-2024.svg)
+
+---
 
 [Stonebanks-js](https://github.com/Stonebanks-js)
