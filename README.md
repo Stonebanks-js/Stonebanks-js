@@ -1,6 +1,6 @@
 ---
 
-### GIF
+### ARADHYA SAHAY CHAUDHARY
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsYjJ0a3hyZTN1Y2hqeDFzNTIyanV5M3ppbzR2dHlwNGlhcHVudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cool Tech GIF" width="600"/>
@@ -9,7 +9,7 @@
 
 ---
 
-### Hello 🌎, I'm Aradhya
+### GREETINGS AMIGOS !!, 
 
 I'm a **Data Scientist**, open-source contributor, technical writer, researcher, and blogger. My passion lies in leveraging technology to solve real-world problems and contribute to the open-source ecosystem. Let's make technology smarter! 🚀
 
