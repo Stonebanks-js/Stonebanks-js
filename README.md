@@ -8,26 +8,26 @@
 
 ---
 
-### GREETINGS AMIGOS !!
+### GREETINGS AMIGOS !!, 
 
 I'm a **Data Scientist**, open-source contributor, technical writer, researcher, and blogger. My passion lies in leveraging technology to solve real-world problems and contribute to the open-source ecosystem. Let's make technology smarter! 🚀
 
 - 🔭 **Current Project**: I'm working on a **Chicken Disease Classifier** using **semi-supervised learning**, **reinforcement learning**, **deep learning**, and **CI/CD techniques**. The goal is to enhance the detection of diseases in chickens using a hybrid of machine learning models and automation pipelines.
-
+  
 - 🌱 **Currently Involved In**:
   - Google Summer of Code (GSOC)
   - Hacktoberfest
   - Google Cloud Arcade
 
 - 💬 **Ask me about**: Python, Java, Machine Learning, Deep Learning, NLP, Neural Networks, Data Engineering, and Feature Engineering.
-- 📚 **Concepts I'm proficient in**: Data Structures and Algorithms (DSA), Computer Organization and Architecture (COA), Database Management Systems (DBMS), Computer Vision, and Computer Networks.
+- 📚 **Concepts I'm proficient in**: Data Visualization, Exploratory Data Analysis and Data Preprocessing, Feature Engineering, Machine Learning, and Model Building.
 - ⚡ **Fun fact**: I am the Imposter. 🕵️‍♂️
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <h3 align="center">Activity Graph:</h3>
 
-[![Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stonebanks-js&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stonebanks-js&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true&include_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -73,20 +73,6 @@ I'm a **Data Scientist**, open-source contributor, technical writer, researcher,
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,jetbrains"/></td>
     </tr>
 </table>
----
-
-### Achievements 🎉
-
-#### Hacktoberfest Badges:
-<div>
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Level 0 Badge" width="150"/>
-  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tea-0-0-0.webp" alt="Level 1 Badge" width="150"/>
-  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-robe-0-0.webp" alt="Level 2 Badge" width="150"/>
-  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-robe-0-0.webp" alt="Level 3 Badge" width="150"/>
-  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-robe-0-0.webp" alt="Level 4 Badge" width="150"/>
-</div>
-
----
 
 ---
 
@@ -111,9 +97,15 @@ I'm a **Data Scientist**, open-source contributor, technical writer, researcher,
 
 ---
 
-### Achievements 🏆
+### Hacktoberfest Achievements:
 
-![Hacktoberfest 2024 Badge](https://hacktoberfest.digitalocean.com/assets/badge-hacktoberfest-2024.svg)
+<div align="center">
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Level 0 Badge" width="100"/>
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tea-0-0-0.webp" alt="Level 1 Badge" width="100"/>
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-robe-0-0.webp" alt="Level 2 Badge" width="100"/>
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-robe-0-0.webp" alt="Level 3 Badge" width="100"/>
+  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-robe-0-0.webp" alt="Level 4 Badge" width="100"/>
+</div>
 
 ---
 
